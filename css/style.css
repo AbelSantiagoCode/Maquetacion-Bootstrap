@@ -1,0 +1,19 @@
+html,body {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar {
+  background-color: #23415C !important;
+  font-size: 1.2em !important;
+}﻿
+
+#fixed {
+  background: url(img/background.jpg) no-repeat center center fixed;
+  display: table;
+  height: 60%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+
+}
